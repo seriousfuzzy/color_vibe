@@ -1,0 +1,7 @@
+{
+  "name": "Color Vibe commit",
+  "description": "Um aplicativo de sincronização de luz de tela em tempo real. Crie eventos, controle cores e ilumine a festa.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
